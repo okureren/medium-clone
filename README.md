@@ -7,4 +7,4 @@ Y. Eren Okur
 ## Açıklama:
 
  Bu güne kadar öğrendiklerimle "medium.com" un klonunu çıkardım.
- Genel olarak Bootstrap kullandım.
+ Genel olarak Bootstrap kullandım. 
