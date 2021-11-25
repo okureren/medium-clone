@@ -4,7 +4,6 @@ Y. Eren Okur
 | [Linkedin](https://www.linkedin.com/in/eren0kur/)
 
 
-## Açıklama:
+## Description:
 
- Bu güne kadar öğrendiklerimle "medium.com" un klonunu çıkardım.
- Genel olarak Bootstrap kullandım. 
+medium clone using with Bootstrap
