@@ -6,4 +6,4 @@ Y. Eren Okur
 
 ## Description:
 
-medium clone using with Bootstrap
+medium clone using with Bootstrap 
